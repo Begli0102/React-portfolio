@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import './Projects.css'
 
 import urlshortener from '../../images/urlshortener.png'
-import mainView from '../../images/main-view.png'
+import cars from '../../images/cars.PNG'
 import parfumes from '../../images/perfumes.PNG'
 import image from '../../images/image.png'
 import words from '../../images/words.png'
@@ -33,7 +33,7 @@ const Projects = () => {
             <div className='project-img'>
               <img
                 className='image_project'
-                src={mainView}
+                src={cars}
                 width='500px'
                 height='300px'
                 alt='alt'
