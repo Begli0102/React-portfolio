@@ -11,10 +11,11 @@ const Home = () => {
             Hi there...<span></span>
           </h1>
           <h1>
-            I am <span></span>
+            I am Begli Kakabalov.<span></span>
           </h1>
           <h1>
-            Begli Kakabalov. Here, you can take a look at my projects
+            Here, you can take
+            <span></span>a look at my projects
             <span></span>
           </h1>
           {/* <a href="https://begli0102.github.io/React-portfolio/about" tape='button' className="btn">Learn more</a> */}
