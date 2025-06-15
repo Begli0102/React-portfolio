@@ -21,12 +21,13 @@ const Projects = () => {
         <div className='all-projects'>
           <div className='project-items'>
             <div className='project-info'>
-              <h1>MyFlix (React)</h1>
+              <h1>Car-Market</h1>
               <p>
-                MyFlix is a full-stack MERN application. In this application
-                users can see the information about the movies, add them to
-                favorite, see their favorite movies in their account, delete
-                them and update their account information.
+                In this application, users can search for the vehicle they want
+                using the search engine and view detailed information about it.
+                If they wish, they can increase or decrease the number of cars.
+                This app will attract your attention with these and many more
+                features. All data was obtained from Rapid API.
               </p>
             </div>
             <div className='project-img'>
@@ -39,10 +40,10 @@ const Projects = () => {
               />
             </div>
             <div className='details'>
-              <a href='https://myflix1.netlify.app/'>
+              <a href='https://car-show-gamma-ecru.vercel.app/'>
                 <button>Live</button>
               </a>
-              <a href='https://github.com/Begli0102/myFlix-client'>
+              <a href='https://github.com/Begli0102/car_show'>
                 <button>Code</button>
               </a>
             </div>
@@ -50,12 +51,11 @@ const Projects = () => {
 
           <div className='project-items'>
             <div className='project-info'>
-              <h1>BK-parfumes</h1>
+              <h1>BK-perfumes</h1>
               <p>
-                BK-perfumes is an e-commerce application, built with
-                Next.js. In this application users can see the information
-                about perfumes, add them to cart,see the total price and delete
-                them.
+                BK-perfumes is an e-commerce application, built with Next.js. In
+                this application users can see the information about perfumes,
+                add them to cart,see the total price and delete them.
               </p>
             </div>
             <div className='project-img'>
