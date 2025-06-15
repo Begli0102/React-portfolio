@@ -5,7 +5,7 @@ import './Projects.css'
 
 import urlshortener from '../../images/urlshortener.png'
 import mainView from '../../images/main-view.png'
-import parfumes from '../../images/parfumes.png'
+import parfumes from '../../images/perfumes.PNG'
 import image from '../../images/image.png'
 import words from '../../images/words.png'
 
@@ -52,9 +52,9 @@ const Projects = () => {
             <div className='project-info'>
               <h1>BK-parfumes</h1>
               <p>
-                BK-parfumes is a full-stack e-commerce application, built with
-                MERN stack. In this application users can see the information
-                about parfumes, add them to cart,see the total price and delete
+                BK-perfumes is an e-commerce application, built with
+                Next.js. In this application users can see the information
+                about perfumes, add them to cart,see the total price and delete
                 them.
               </p>
             </div>
@@ -68,10 +68,10 @@ const Projects = () => {
               />
             </div>
             <div className='details'>
-              <a href='https://bkperfumes.netlify.app'>
+              <a href='https://bk-perfumes.vercel.app/'>
                 <button>Live</button>
               </a>
-              <a href='https://github.com/Begli0102/bk-parfumes'>
+              <a href='https://github.com/Begli0102/BK_perfume_next.js'>
                 <button>Code</button>
               </a>
             </div>
